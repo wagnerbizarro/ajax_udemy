@@ -1,1 +1,6 @@
-# ajax_udemy
+# ajax_udemy 
+**Autor:** _Wagner Bizarro_      
+**Sobre:** AJAX  
+**Stack:** HTML/CSS/JS/PHP  
+**Data:** 17/09/2023    
+**Curso Udemy: https://www.udemy.com/course/ajax-php-javascript-mysql/learn/lecture/16698634?start=15#overview  
